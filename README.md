@@ -60,7 +60,7 @@ npm install
 Start the development server:
 npm run dev
 The app runs at http://localhost:5173
-Ensure your backend server is running at http://localhost:5000 or update the base URL in api.js.
+Ensure your backend server is running at http://localhost:5001 or update the base URL in api.js.
 
 Components Breakdown
 
