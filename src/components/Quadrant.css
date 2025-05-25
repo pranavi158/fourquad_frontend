@@ -1,0 +1,24 @@
+.quadrant {
+  background-color: #f9f9f9;
+  border: 2px solid #ddd;
+  border-radius: 8px;
+  padding: 16px;
+  margin: 12px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.quadrant h2 {
+  font-size: 1.25rem;
+  margin-bottom: 12px;
+  color: #333;
+}
+
+.quadrant ul {
+  list-style-type: none;
+  padding-left: 0;
+  flex-grow: 1;
+  overflow-y: auto;
+}

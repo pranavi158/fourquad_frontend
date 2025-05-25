@@ -1,0 +1,21 @@
+.dashboard {
+  padding: 24px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #ffffff;
+  min-height: 100vh;
+  color: #222;
+}
+
+.dashboard h1 {
+  text-align: center;
+  margin-bottom: 24px;
+  font-weight: 700;
+  color: #1e40af; /* deep blue */
+}
+
+.grid {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
