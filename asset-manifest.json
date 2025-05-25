@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fourquad_frontend/static/css/main.d59ae26c.css",
+    "main.js": "/fourquad_frontend/static/js/main.bb21f92d.js",
+    "index.html": "/fourquad_frontend/index.html",
+    "main.d59ae26c.css.map": "/fourquad_frontend/static/css/main.d59ae26c.css.map",
+    "main.bb21f92d.js.map": "/fourquad_frontend/static/js/main.bb21f92d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d59ae26c.css",
+    "static/js/main.bb21f92d.js"
+  ]
+}
